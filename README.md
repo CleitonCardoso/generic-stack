@@ -13,6 +13,7 @@ Stack de desenvolvimento padrão para novos produtos
 
 # Requisitos
 
+- Java 8+;
 - Maven;
 - Npm;
 
