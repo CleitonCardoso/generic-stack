@@ -1,5 +1,11 @@
 # generic-stack
-Stack de desenvolvimento padrão para novos produtos
+Stack de desenvolvimento padrão para novos produtos.
+
+
+Link para a documentação da proposta https://docs.google.com/document/d/1yijndWNN_vKtKxAoF_7qksd2dGpzVT1vI9zXw3F57co/edit?usp=sharing;
+
+
+## Stack
 
 - SprinBoot;
 - H2;
@@ -11,13 +17,13 @@ Stack de desenvolvimento padrão para novos produtos
 - Semantic-ui;
 
 
-# Requisitos
+## Requisitos
 
 - Java 8+;
 - Maven;
 - Npm;
 
-# Rodando as aplicações
+## Rodando as aplicações
 
 No diretório `/app` executar `mvn spring-boot:run`;
 
