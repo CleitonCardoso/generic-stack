@@ -7,7 +7,7 @@ Link para a documentação da proposta https://docs.google.com/document/d/1yijnd
 
 ## Stack
 
-- SprinBoot;
+- SpringBoot;
 - H2;
 - Swagger;
 
